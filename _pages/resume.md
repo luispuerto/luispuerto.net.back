@@ -9,12 +9,12 @@ header:
   overlay_image: /assets/images/pages/header-resume.png
   caption: '*Rendering of LiDAR from Norway*'
 ---
-*If you prefer you can download the most recent version of my résumé in pdf in [http://resume.luispuerto.net](http://resume.luispuerto.net)*{: style="color: grey"}
+*You can download the most recent version of my résumé in pdf in [http://resume.luispuerto.net](http://resume.luispuerto.net)*{: style="color: grey"}
 {: style="color: grey; font-size: 80%"}
 
 ## Profile and Objective
 
-I am a dynamic and versatile Forest Engineer from Spain with more than 10 years of diverse and wide experience in GIS and remote sensing. I have been working lately on research projects involving LiDAR, biomass and R language. I have experience working internationally, in different fields related to technology and interdisciplinary teams. I have great ability to learn, and I have an analytical mind. I am mainly looking for challenging projects related to GIS, remote sensing technologies and new ways to acquire data where I can use my background and skills, learning new ones in the process.
+I am a dynamic and versatile Forest Engineer from Spain with more than 10 years of diverse and wide experience in GIS and remote sensing. I have been working lately on research projects involving LiDAR, biomass and R language. I have experience working internationally, in different fields related to technology and interdisciplinary teams. I have great ability to learn, and I have an analytical mind. I am mainly looking for challenging projects related to GIS, remote sensing technologies and new ways to acquire data where I can use my background and skills while learning new ones in the process.
 
 ## Education
 
